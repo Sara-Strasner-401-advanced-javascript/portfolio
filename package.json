@@ -16,7 +16,6 @@
   "bugs": {
     "url": "https://github.com/sarastrasner/portfolio/issues"
   },
-  "homepage": "https://github.com/sarastrasner/portfolio#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
