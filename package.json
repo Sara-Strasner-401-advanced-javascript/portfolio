@@ -14,7 +14,8 @@
     "url": "git+https://github.com/sarastrasner/portfolio.git"
   },
   "bugs": {
-    "url": "https://github.com/sarastrasner/portfolio/issues"
+    "url": "https://github.com/sarastrasner/portfolio/issues",
+    "homepage": "https://github.com/sarastrasner/portfolio#readme”"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
